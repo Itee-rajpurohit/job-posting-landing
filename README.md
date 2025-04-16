@@ -1,5 +1,10 @@
 🔍 Job Portal Landing Page
+
 A modern, fully responsive job portal landing page built with performance and accessibility in mind. Optimized for all breakpoints and devices, ensuring a seamless user experience across desktops, tablets, and mobile screens.
+
+I followed along and built this project based on a tutorial from Web Design Mastery's YouTube channel — a great resource for learning modern web design.
+
+📸 Screenshots attached below to showcase the design and responsiveness.
 
 
 
