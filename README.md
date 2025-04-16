@@ -2,6 +2,10 @@
 A modern, fully responsive job portal landing page built with performance and accessibility in mind. Optimized for all breakpoints and devices, ensuring a seamless user experience across desktops, tablets, and mobile screens.
 
 
+
+![Image](https://github.com/user-attachments/assets/cc91c6de-fd20-436a-a6bd-af6ec808b877)
+
+
 ![Image](https://github.com/user-attachments/assets/db4c0b25-f8f3-45dc-971d-e3c7fba435bd)
 
 
@@ -17,4 +21,3 @@ A modern, fully responsive job portal landing page built with performance and ac
 ![Image](https://github.com/user-attachments/assets/8924e523-8866-4268-8e9a-6f841daea536)
 
 
-![Image](https://github.com/user-attachments/assets/cc91c6de-fd20-436a-a6bd-af6ec808b877)
